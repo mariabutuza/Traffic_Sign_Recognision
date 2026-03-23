@@ -1,0 +1,20 @@
+# Folders
+.ipynb_checkpoints/
+Meta/
+results/
+Test/
+Train/
+
+# CSV files
+Meta.csv
+model_results.csv
+results_summary.csv
+Test.csv
+Train.csv
+
+# Images
+validation_accuracy_comparison.png
+
+# OS
+.DS_Store
+Thumbs.db
