@@ -1,1 +1,2 @@
 # Traffic_Sign_Recognision
+Traffic Sign Image Recognition is a deep learning project that implements a full machine learning pipeline for classifying traffic signs using the GTSRB (German Traffic Sign Recognition Benchmark) dataset (43 classes, ~39,000 training images). The project compares multiple architectures: ResNet18, AlexNet, MobileNet V3, and EfficientNet B0 and evaluates three training strategies on ResNet18: training from scratch, feature extraction, and fine-tuning. All experiments are implemented in Python using PyTorch and executed on GPU via CUDA.
